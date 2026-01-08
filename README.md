@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Mohamed Athiq 👋
 
-<!--
-**athiq14/athiq14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer Aspirant | WordPress | PHP | JavaScript | Open Source Contributor
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- PHP
+- JavaScript
+- WordPress
+- MySQL
+- HTML & CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 What I Do
+- Build custom WordPress plugins and themes
+- Write clean, secure, and scalable PHP code
+- Contribute to open-source projects
+- Continuously learn and improve backend & frontend skills
+
+🌍 Open Source Contributions
+- Actively contributing to WordPress and JavaScript repositories
+- Focused on bug fixes, enhancements, and code quality
+
+📫 Contact
+- GitHub: https://github.com/athiq14
+- LinkedIn: https://www.linkedin.com/in/athiq14/
