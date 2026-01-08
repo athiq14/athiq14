@@ -20,6 +20,12 @@ Software Engineer Aspirant | WordPress | PHP | JavaScript | Open Source Contribu
 - Actively contributing to WordPress and JavaScript repositories
 - Focused on bug fixes, enhancements, and code quality
 
+🔓 Open Source Contributions
+- Actively exploring open-source projects
+- Engaged with beginner-friendly issues
+- Currently working on feature and bug-fix contributions
+
+
 📫 Contact
 - GitHub: https://github.com/athiq14
 - LinkedIn: https://www.linkedin.com/in/athiq14/
